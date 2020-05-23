@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Time Clock
 
-You can use the [editor on GitHub](https://github.com/pedrovsn/timeclock/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you will find information regarding the latest updates, about what's to come and can open issues too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Latest version
 
-### Markdown
+The latest version of the app is version 1.0.0 available on the Play Store.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Upcoming features
 
-```markdown
-Syntax highlighted code block
+- Weekly and monthly hours report
+- Cloud synchronization
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedrovsn/timeclock/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Privacy Policy
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are experiencing any problems with the application you can contact us via email [pedrovisn@gmail.com] (pedrovisn@gmail.com)
